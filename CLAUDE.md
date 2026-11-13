@@ -10,7 +10,7 @@
 ## ファイル
 
 - `index.html` … アプリ本体（HTML・CSS・JSを1ファイルに入れている。ビルドなし）
-- `manifest.webmanifest` / `icons/` … ホーム画面に追加したときの名前とアイコン（32・180・192・512・1024）
+- `manifest.webmanifest` / `icons/` … ホーム画面に追加したときの名前とアイコン（32・180・192・512）
 - `.nojekyll` … GitHub Pages で そのまま配信するため
 
 外部から読み込むのは Google Fonts（DotGothic16＝ドット文字、Klee One＝原稿用紙の教科書体）だけ。
